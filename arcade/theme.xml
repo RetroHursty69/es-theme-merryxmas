@@ -1,0 +1,48 @@
+ <theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+
+	<view name="system, basic, detailed, video">
+		<image name="logo">
+			<path>./_inc/system.png</path>
+		</image>
+	</view>
+
+	<view name="system">
+                <image name="boxart" extra="true">
+                   <pos>0.253 0.646</pos>
+                   <maxSize>0.3109 0.3109</maxSize>
+                   <zIndex>40</zIndex>
+                   <path>./_inc/boxart.png</path>
+                </image>
+    </view> 
+    
+    <view name="basic">
+                <image name="boxart" extra="true">
+                   <pos>0.72 0.703</pos>
+                   <maxSize>0.23 0.23</maxSize>
+                   <zIndex>40</zIndex>
+                   <path>./_inc/boxart.png</path>
+                </image>
+    </view>   
+    
+    <view name="detailed">
+                <image name="boxart" extra="true">
+                   <pos>0.72 0.703</pos>
+                   <maxSize>0.23 0.23</maxSize>
+                   <zIndex>40</zIndex>
+                   <path>./_inc/boxart.png</path>
+                </image>
+    </view>                                           
+
+    <view name="video">
+                <image name="boxart" extra="true">
+                   <pos>0.72 0.703</pos>
+                   <maxSize>0.23 0.23</maxSize>
+                   <zIndex>40</zIndex>
+                   <path>./_inc/boxart.png</path>
+                </image>
+    </view>                                           
+
+    
+</theme>
